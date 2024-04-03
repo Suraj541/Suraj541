@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<style>
+
+</style>
+
+</head>
+
+<main>
+
+<h4>Enter your informations</h4>
+
+<form action="">
+
+<label for="text">Full Name:</label><br>
+
+<br>
+
+<input type="text" id="text"><br>
+
+<input type="radio" id="s" name="s">
+
+<label for="s">C++</label><br>
+
+<input type="radio" id="u" name="s">
+
+<label for="u">Java</label><br>
+
+<input type="radio" id="r" name="s">
+
+<label for="r">Python</label><br>
+
+<input type="radio" id="a" name="s">
+
+<label for="a">JavaScript</label><br>
+
+<br>
+
+<input type="checkbox" id="s" name="s" value="s">
+
+<label for="s">English</label><br>
+
+<input type="checkbox" id="u" name="s"
+
+value="s">
+
+<label for="u">Hindi</label><br>
+
+<input type="checkbox" id="r" name="s" value="s">
+
+<label for="r">Marathi</label><br>
+
+<br>
+
+<input type="submit" value="Ok">
+
+<input type="submit" value="Cancel">
+
+</form>
+
+</main>
+
+</html>
